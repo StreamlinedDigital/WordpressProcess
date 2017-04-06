@@ -13,7 +13,7 @@
 5. Go to envato plugin tab in sidebar and click "Generate a personal token" to generate token
 5. Go to envato plugin tab in sidebar and insert token in the token input and click save changes
 4. Under themes tab in envato plugin install salient theme
-4. Under plugins tab in envato plugin install visual composer
+4. Under plugins tab in envato plugin install Salient Visual Composer
 7. Create a new page named Home
 8. Got to settings -> reading -> Front Page Displays -> A State Page : Select "Home" Page
 7. Deploy staging environment to production
@@ -28,4 +28,6 @@ Map out what we do
 ---------------------
 
 - Estimated time: 4 hours
-- Actual Time: TBD
+- Flywheel/Wordpres Setup time: 20 min
+- Wordpres Design/Development time: 2 Hours
+- Deployment TBD:
