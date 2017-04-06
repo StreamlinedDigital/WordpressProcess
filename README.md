@@ -3,7 +3,7 @@
 1. Purchase Domain
 2. Flywheel site creation
     1. In Flywheel, create a new site.
-    2. Use Streamlined Studio as site owner
+    2. Use "Streamlined Studio" as site owner
     3. Enter in a Site Name
     4. Enter in a temporary domain
     5. Use streamlinedadmin as admin username
@@ -11,7 +11,7 @@
     7. For "how would you like to pay?" Select "Bulk Method"
 3. Wordpress Setup
     1. Log in to sites WP Dashboard (/wp-admin)
-    2. Install Envato Market Plugin http://envato.github.io/wp-envato-market/ Plugsin -> Add New -> Upload
+    2. Install [Envato Market Plugin](http://envato.github.io/wp-envato-market/) by going to Plugins -> Add New -> Upload
     3. Go to envato plugin tab in sidebar and click "Generate a personal token" to generate token
     4. Go to envato plugin tab in sidebar and insert token in the token input and click save changes
     5. Under themes tab in envato plugin install salient theme
