@@ -32,4 +32,4 @@ Map out what we do
 - Estimated time: 4 hours
 - Flywheel/Wordpres Setup time: 20 min
 - Wordpres Design/Development time: 2 Hours
-- Deployment TBD:
+- Deployment: TBD
