@@ -18,14 +18,9 @@
     6. Under plugins tab in envato plugin install Salient Visual Composer
     7. Create a new page named Home
     8. Got to settings -> reading -> Front Page Displays -> A State Page : Select "Home" Page
-4. Deploy staging environment to production
+4. Desgin / Development of Site
 5. Set up SSL Certificate (If Needed)
 6. Change A Record in DNS settings to IP inside of flywheel site dashboard
-
-Learn how to use flywheel
-Time it while 
-Plan before hand 
-Map out what we do 
 
 ---------------------
 
