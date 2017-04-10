@@ -1,7 +1,7 @@
 # Wordpress/Flywheel Process
 
 ## Setup 
-Approx Time: 40 minutes
+###### Approx Time: 40 minutes
 1. Purchase Domain
 2. Flywheel site creation
     1. In Flywheel, create a new site.
@@ -22,19 +22,25 @@ Approx Time: 40 minutes
     8. Got to settings -> reading -> Front Page Displays -> A State Page : Select "Home" Page
     
 ## Design / Development 
-Approx Time: Varies (1 page site: 4 Hours, Multi-page site: 15 - 75 hours)
+###### Approx Time: Varies (1 page site: 4 Hours, Multi-page site: 15 - 75 hours)
 1. Use [salient demos](http://themenectar.com/demo/salient-promo/#demos) for inspiration 
 
 ## Deployment to Production
-Approx Time: 40 minutes
+###### Approx Time: 30 minutes
 1.  At the Domain registrar:
     1. Point the domain's A record to the IP Address for Flywheel
     2. Create a CName for www that points to the root domain
 2. At the hosting (Flywheel) level:
     1. Setup the Domain in flywheel (setup both www and naked, but make www the primary)
-    2. Add the SSL
-    3. Force the SSL
-    4. Update images/apis (edited)
+        - In salinet dashboard under domains, click "+ Add Another Domain'
+        - Add the www site (i.e www.yoursite.com)
+        - Check "Primary?" Next the the URL you just entered 
+        - Lastly, Check "Also add yoursite.com".  This adds the naked url as well (i.e yoursite.com) 
+    2. Enable SSL 
+        - Go to "Add-ons" and click enable ssl
+        - Force SSL by going to "Advanced" and turning on "Force HTTPS"
+    4. Update images/apis
+    
 
 
 
