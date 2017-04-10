@@ -1,6 +1,7 @@
 # Wordpress/Flywheel Process
 
-## Setup
+## Setup 
+Approx Time: 40 minutes
 1. Purchase Domain
 2. Flywheel site creation
     1. In Flywheel, create a new site.
@@ -20,10 +21,12 @@
     7. Create a new page named Home
     8. Got to settings -> reading -> Front Page Displays -> A State Page : Select "Home" Page
     
-## Desigin / Development
+## Design / Development 
+Approx Time: Varies (1 page site: 4 Hours, Multi-page site: 15 - 75 hours)
 1. Use [salient demos](http://themenectar.com/demo/salient-promo/#demos) for inspiration 
 
 ## Deployment to Production
+Approx Time: 40 minutes
 1.  At the Domain registrar:
     1. Point the domain's A record to the IP Address for Flywheel
     2. Create a CName for www that points to the root domain
@@ -33,20 +36,6 @@
     3. Force the SSL
     4. Update images/apis (edited)
 
----------------------
-
-- Estimated time: 4 hours
-- Flywheel/Wordpres Setup time: 20 min
-- Wordpres Design/Development time: 4 Hours
-- Deployment: TBD
 
 
-**At the Registrar**
-1) Point the domain to the IP Address for Flywheel
-2) Create a CName for www that points to the root domain
 
-**At Flywheel**
-3) Setup the Domain in flywheel (setup both www and naked, but make www the primary)
-4) Add the SSL
-5) Force the SSL
-6) Update images/apis (edited)
