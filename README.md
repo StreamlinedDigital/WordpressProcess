@@ -40,7 +40,7 @@
         - Go to "Add-ons" and click enable ssl
         - Force SSL by going to "Advanced" and turning on "Force HTTPS"
     4. Update images/apis
-    
+        - Review site to make sure all images, links, apis or anything else that may be hard coded is working properly
 
 
 
